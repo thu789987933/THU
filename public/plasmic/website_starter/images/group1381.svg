@@ -1,0 +1,11 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 22">
+  <ellipse cx="11.01" cy="11" rx="11.01" ry="11" fill="url(#KZqgdNJdoZpxa)"/>
+  <defs>
+    <linearGradient id="KZqgdNJdoZpxa" x1="21.143" y1=".733" x2=".027" y2="22.979" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5FECA"/>
+      <stop offset=".283" stop-color="#3EDCEB"/>
+      <stop offset=".624" stop-color="#2594FF"/>
+      <stop offset="1" stop-color="#53F"/>
+    </linearGradient>
+  </defs>
+</svg>

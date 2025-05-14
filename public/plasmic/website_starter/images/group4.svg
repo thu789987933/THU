@@ -1,0 +1,32 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 15">
+  <path d="M0 6.75h6v7.5H0v-7.5z" fill="url(#z__jXpcamOjha)"/>
+  <path d="M9.75 5.25h6v9h-6v-9z" fill="url(#z__jXpcamOjhb)"/>
+  <path d="M19.5 3h6v11.25h-6V3z" fill="url(#z__jXpcamOjhc)"/>
+  <path d="M29.25 0h6v14.25h-6V0z" fill="url(#z__jXpcamOjhd)"/>
+  <defs>
+    <linearGradient id="z__jXpcamOjha" x1="5.761" y1="7" x2="-1.342" y2="12.981" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5FECA"/>
+      <stop offset=".283" stop-color="#3EDCEB"/>
+      <stop offset=".624" stop-color="#2594FF"/>
+      <stop offset="1" stop-color="#53F"/>
+    </linearGradient>
+    <linearGradient id="z__jXpcamOjhb" x1="15.511" y1="5.55" x2="7.377" y2="11.258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5FECA"/>
+      <stop offset=".283" stop-color="#3EDCEB"/>
+      <stop offset=".624" stop-color="#2594FF"/>
+      <stop offset="1" stop-color="#53F"/>
+    </linearGradient>
+    <linearGradient id="z__jXpcamOjhc" x1="25.261" y1="3.375" x2="16.03" y2="8.557" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5FECA"/>
+      <stop offset=".283" stop-color="#3EDCEB"/>
+      <stop offset=".624" stop-color="#2594FF"/>
+      <stop offset="1" stop-color="#53F"/>
+    </linearGradient>
+    <linearGradient id="z__jXpcamOjhd" x1="35.011" y1=".475" x2="24.864" y2="4.972" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5FECA"/>
+      <stop offset=".283" stop-color="#3EDCEB"/>
+      <stop offset=".624" stop-color="#2594FF"/>
+      <stop offset="1" stop-color="#53F"/>
+    </linearGradient>
+  </defs>
+</svg>
